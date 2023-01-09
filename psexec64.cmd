@@ -1,7 +1,7 @@
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :: Author:		David Geeraerts
 :: Location:	Olympia, Washington USA
-:: E-Mail:		geeraerd@evergreen.edu
+:: E-Mail:		dgeeraerts.evergreen@gmail.com
 ::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :: Copyleft License(s)
@@ -33,12 +33,12 @@ setlocal enableextensions
 
 :: Initialize the terminal	:::::::::::::::::::::::::::::::::::::::::::::::::::
 SET $SCRIPT_NAME=module_tool_PSEXEC64
-SET $SCRIPT_VERSION=0.1.0
-SET $SCRIPT_BUILD=20230106 1000
+SET $SCRIPT_VERSION=0.1.1
+SET $SCRIPT_BUILD=20230109 0815
 Title %$SCRIPT_NAME% Version: %$SCRIPT_VERSION%
 prompt PSEXEC64$G
 color 03
-mode con:cols=80
+mode con:cols=100
 mode con:lines=45
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

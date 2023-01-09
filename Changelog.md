@@ -20,8 +20,14 @@
 
 ---
 
+## Version 0.1.1 (2023-01-09)
+#### Changed
+- mode col
+- Image for project
+
+---
+
+
 ## Version 0.1.0 (2023-01-06)
 #### Added
 - initial submit
-
----
